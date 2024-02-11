@@ -1,1 +1,5 @@
 # gitcourse
+
+
+
+## project notes
